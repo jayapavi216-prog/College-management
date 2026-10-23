@@ -1,0 +1,10 @@
+s.
+<header class="top"><h1>College Club Management Portal</h1></header>
+<input type="search" id="searchInput" placeholder="Search clubs...">
+<select id="categoryFilter"><option value="All">All Categories</option></select>
+<div id="clubGrid" class="grid"></div>
+<form id="regForm">
+  <input id="name"> <input id="regNo"> <input id="email"> <input id="phone">
+  <button type="submit">Register</button>
+</form>
+<ul id="eventList"></ul>
